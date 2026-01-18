@@ -1,1 +1,19 @@
-/out/
+# Java compiled files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Build output
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
