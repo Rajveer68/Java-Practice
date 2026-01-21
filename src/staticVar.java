@@ -6,7 +6,7 @@ class Car{
     // Static keyword means that you are making something as a class member, not an object member.
     int MnfYear;
 
-    Car(String Company,String model,int MnfYear){
+     public Car(String Company,String model,int MnfYear){
         this.Company=Company;
         this.model=model;
 //        Car.ProductType =ProductType;
